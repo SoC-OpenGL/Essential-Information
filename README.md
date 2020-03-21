@@ -10,5 +10,7 @@
 
 ## Links
 * https://ubuntu.com/download/desktop
+
 (Setup Ubuntu 18.04.4 LTS)
 * https://learnopengl.com/
+* https://github.com/paragchaudhuri/cs475-tutorials/tree/master/Tutorial_00
