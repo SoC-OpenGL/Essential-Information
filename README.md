@@ -3,6 +3,7 @@
 ## Timeline
 
 Deadline | Task
+-------
 March 22 | Setup Ubuntu Dual Boot
 March 24 | Setup OpenGL
 March 24 | Assignment-0 (to be posted soon)
