@@ -6,10 +6,12 @@
 | -------- | ---------------------------------- |
 | March 22 | Setup Ubuntu Dual Boot				|
 | March 24 | Setup OpenGL						|
-| March 30 | Assignment-1						|
+| April 2  | Assignment-1						|
+| April 10 | Assignment-2						|
 
 ## Assignments
 * [Assignment 1](https://github.com/SoC-OpenGL/Assignment-1-Rasterization)
+* [Assignment 1](https://github.com/SoC-OpenGL/Assignment-2-ModellingViewingPipeline)
 
 ## Links
 * https://ubuntu.com/download/desktop
