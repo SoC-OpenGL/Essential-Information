@@ -11,7 +11,7 @@
 
 ## Assignments
 * [Assignment 1](https://github.com/SoC-OpenGL/Assignment-1-Rasterization)
-* [Assignment 1](https://github.com/SoC-OpenGL/Assignment-2-ModellingViewingPipeline)
+* [Assignment 2](https://github.com/SoC-OpenGL/Assignment-2-ModellingViewingPipeline)
 
 ## Links
 * https://ubuntu.com/download/desktop
